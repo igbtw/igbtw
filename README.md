@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hey, I'm Igor 👋
 
-<!--
-**igbtw/igbtw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at ETEC, focused on web development and in love with Linux.
+Always learning something new in the open source world.
 
-Here are some ideas to get you started:
+## Skills
+<img src="https://cdn.simpleicons.org/html/78a9ff" width="32" />
+<img src="https://cdn.simpleicons.org/css/78a9ff" width="32" />
+<img src="https://cdn.simpleicons.org/javascript/78a9ff" width="32" />
+<img src="https://cdn.simpleicons.org/php/78a9ff" width="32" />
+<img src="https://cdn.simpleicons.org/go/78a9ff" width="32" />
+<img src="https://cdn.simpleicons.org/python/78a9ff" width="32" />
+<img src="https://cdn.simpleicons.org/linux/78a9ff" width="32" />
+<img src="https://cdn.simpleicons.org/neovim/78a9ff" width="32" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+- [nvim](https://github.com/igbtw/nvim) — my personal Neovim dotfiles (LazyVim + oxocarbon)
