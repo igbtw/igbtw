@@ -10,6 +10,9 @@ Always learning something new in the open source world.
 ![PHP](https://img.shields.io/badge/PHP-78a9ff?style=for-the-badge&logo=php&logoColor=161616)
 ![Go](https://img.shields.io/badge/Go-78a9ff?style=for-the-badge&logo=go&logoColor=161616)
 ![Python](https://img.shields.io/badge/Python-78a9ff?style=for-the-badge&logo=python&logoColor=161616)
+![MySQL](https://img.shields.io/badge/MySQL-78a9ff?style=for-the-badge&logo=mysql&logoColor=161616)
+![C](https://img.shields.io/badge/C-78a9ff?style=for-the-badge&logo=c&logoColor=161616)
+![C++](https://img.shields.io/badge/C++-78a9ff?style=for-the-badge&logo=cplusplus&logoColor=161616)
 ![Linux](https://img.shields.io/badge/Linux-78a9ff?style=for-the-badge&logo=linux&logoColor=161616)
 ![Neovim](https://img.shields.io/badge/Neovim-78a9ff?style=for-the-badge&logo=neovim&logoColor=161616)
 
