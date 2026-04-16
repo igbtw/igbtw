@@ -16,5 +16,5 @@ Always learning something new in the open source world.
 ![Linux](https://img.shields.io/badge/Linux-161616?style=for-the-badge&logo=linux&logoColor=78a9ff)
 ![Neovim](https://img.shields.io/badge/Neovim-161616?style=for-the-badge&logo=neovim&logoColor=78a9ff)
 
-## Featured Projects
+## Projects?
 - [nvim](https://github.com/igbtw/nvim) — my personal Neovim dotfiles (LazyVim + oxocarbon)
